@@ -30,7 +30,7 @@ this is a blender limitation that  I can't change.
 
 ## Location 
 
-`Properties Editor` > `Scene` tab > **Collection Importer**  
+`Properties Editor` > `Scene` > `Collection Importer`
 
 ## Usage
 
